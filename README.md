@@ -1,4 +1,4 @@
-## Hi I'm Islom Parmon👋
+## Hi I'm Islam Parmon👋
 ### 💻 Tech Stack
 
 <p align="left">
